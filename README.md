@@ -25,3 +25,4 @@ alt="IMAGE ALT TEXT HERE" width="400" height="300" border="50" /></a>
 
 Well it seems that the simple answer is "It's not possible". Github does not include the target attribute even if you use plain HTML, so it's not a in the final HTML Anchor tag. Annoying, but OK, users can just do a CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link, the get the same behavior.
 
+
